@@ -1,15 +1,12 @@
 ## Initial presentation
 
-+ 😃 Hi, I’m @socramteix, Master in Mechatronic Systems by University of Brasília, enthusiastic about new technologies and always looking for learning something new. 
++ 😃 Welcome! I’m @socramteix, Master in Mechatronic Systems by University of Brasília, enthusiastic about new technologies and always looking for learning something new. 
 + 💞️ As hobbies I’m interested in developing projects in the Embedded Systems area using arduino, raspiberry and other prototyping platforms. Specially for 
 Internet of Things (IoT), Smart Cities, home automation, automation for 🌱 precision agriculture and development of Unmanned Aerial Vehicles (UAVs). 
-+ 😎 Currently I'm working as a systems developer at the Brazil's Ministry of Economy in the Startup project ✨Gov.br✨ automating nacional citizen services.
++ 😎 Currently I'm working as a systems developer.
 + 📫 How to reach me: socramteix@gmail.com
 
-## Main Projects
-
-
-
+Here you can find repositories about home automation, front and backend services also curriculum and science projects. If want to discuss about any of my projects reach me at socramtex@gmail.com. Bye!
 
 
 
